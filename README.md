@@ -1,4 +1,4 @@
-# Network engineer and co-founter of <a href="https://www.webfax.rs"> WebFax </a>
+# Network engineer @ Mainstream and co-founter of <a href="https://www.webfax.rs"> WebFax </a>
 
 ## About Me
 Hello! I'm Nikola Šacka, a system engineer/web developer based in Belgrade, Serbia. With a passion for system engineering and web development, I specialize in Network engineering and providing website development services as well as educational services via WebFax. I thrive on challenges and enjoy solving complex problems.
