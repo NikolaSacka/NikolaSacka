@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello there and welcome to my profile
 
-<!--
-**NikolaSacka/NikolaSacka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hello! I'm Nikola Šacka, a system engineer/web developer based in Belgrade, Serbia. With a passion for system engineering and web development, I specialize in Network engineering and providing website development services as well as educational services via WebFax. I thrive on challenges and enjoy solving complex problems.
 
-Here are some ideas to get you started:
+## Services I Provide
+- System engineering
+- IT consulting
+- Network administration
+- Website development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skillset
+I am proficient in:
+- **Programming Languages:** Python, PHP, Powershell
+- **Technologies:** Networking, Cyber security, Firewalls, Data Centers, Network design, Laravel, Flask
+- **Tools:** Observium, VMWare, SELinux, Fail2ban, OSSEC, Wireshark, Bash, PowerShell, phpIPAM, VPN, pgAdmin (for PostgreSQL), MongoDB Compass, Microsoft Azure Portal, RANCID..
+
+## Contact Me
+- [Email] (nikola.sacka@lorem.in.rs)
+- [LinkedIn] (https://www.linkedin.com/in/nikola-sacka/)
+- [Visit My Portfolio](https://www.lorem.in.rs)
+
+Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
+
