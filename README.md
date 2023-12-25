@@ -24,5 +24,5 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NikolaSacka&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaSacka&layout=compact)
-
+![Nikola's GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=NikolaSacka)
 
