@@ -16,8 +16,8 @@ I am proficient in:
 - **Tools:** Observium, VMWare, SELinux, Fail2ban, OSSEC, Wireshark, Bash, PowerShell, phpIPAM, VPN, pgAdmin (for PostgreSQL), MongoDB Compass, Microsoft Azure Portal, RANCID..
 
 ## Contact Me
-- [Email] (nikola.sacka@lorem.in.rs)
-- [LinkedIn] (https://www.linkedin.com/in/nikola-sacka/)
+- **Email** nikola.sacka@lorem.in.rs
+- **LinkedIn** https://www.linkedin.com/in/nikola-sacka/
 - [Visit My Portfolio](https://www.lorem.in.rs)
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
