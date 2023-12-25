@@ -22,5 +22,5 @@ I am proficient in:
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to connect!
 
-My repository stats: (https://github-readme-stats.vercel.app/api?username=NikolaSacka&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NikolaSacka&show_icons=true)
 
