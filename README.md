@@ -24,8 +24,5 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NikolaSacka&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaSacka&layout=compact)
-[![GitHub stars](https://img.shields.io/github/stars/NikolaSacka/your-repo.svg)](https://github.com/NikolaSacka/your-repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/NikolaSacka/your-repo.svg)](https://github.com/NikolaSacka/your-repo/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/NikolaSacka/your-repo.svg)](https://github.com/NikolaSacka/your-repo/watchers)
-[![GitHub issues](https://img.shields.io/github/issues/NikolaSacka/your-repo.svg)](https://github.com/NikolaSacka/your-repo/issues)
+
 
